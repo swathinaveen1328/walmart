@@ -1,2 +1,2 @@
- This line updated in this script
+Added in this line updated 
 This file contains the db connection
